@@ -4,7 +4,7 @@ using Xunit;
 
 namespace TestGreetingController
 {
-    public class UnitTest1
+    public class TestGreeting
     {
         SampleWebAPI.Controllers.GreetingController greet = new SampleWebAPI.Controllers.GreetingController();
         [Fact]
