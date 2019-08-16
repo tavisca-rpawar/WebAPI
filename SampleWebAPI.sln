@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWebAPI", "SampleWebAPI\SampleWebAPI.csproj", "{445B9151-030C-4C39-95EC-9BD9E961031E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGreetingController", "TestGreetingController\TestGreetingController.csproj", "{4163A856-6114-4656-B406-402FE6F5C4CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{445B9151-030C-4C39-95EC-9BD9E961031E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445B9151-030C-4C39-95EC-9BD9E961031E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445B9151-030C-4C39-95EC-9BD9E961031E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445B9151-030C-4C39-95EC-9BD9E961031E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4163A856-6114-4656-B406-402FE6F5C4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4163A856-6114-4656-B406-402FE6F5C4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4163A856-6114-4656-B406-402FE6F5C4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4163A856-6114-4656-B406-402FE6F5C4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EE4A68E-1A44-4888-B275-9C049FE93424}
+	EndGlobalSection
+EndGlobal
